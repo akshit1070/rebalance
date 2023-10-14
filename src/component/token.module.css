@@ -1,0 +1,66 @@
+.tokenClass {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    padding: 1rem;
+    border: 1px solid white;
+    margin-top: 2rem;
+    border-radius: 5px;
+}
+
+.tokenInfo {
+    width: 33%;
+    text-align: left;
+    font-size: 1.5rem;
+}
+
+.tokenInfo:hover {
+    transition: border-color 0.25s;
+}
+
+.tokenInfo1 {
+    width: 33%;
+    text-align: center;
+}
+
+.btnClass {
+    display: flex;
+    margin: auto;
+    width: 20%;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.parentDiv {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    justify-content: space-between;
+    background-color: rgb(5, 4, 4);
+    padding-top: 1rem
+}
+
+.firstDiv {
+    margin: 0rem 1rem 1rem 1rem;
+    font-size: 2rem;
+}
+
+.btn {
+    margin-right: 1rem;
+}
+
+.input {
+    margin: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-right: 0.5rem;
+
+}
+
+.depBtn {
+    margin-left: 1rem;
+}
